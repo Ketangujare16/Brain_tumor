@@ -1,0 +1,6 @@
+tensorflow>=2.17
+pillow
+matplotlib
+opencv-python-headless
+fpdf2
+streamlit
