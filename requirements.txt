@@ -1,7 +1,6 @@
-tensorflow-cpu>=2.17
+tensorflow-cpu==2.20.0
 pillow
 matplotlib
 opencv-python-headless
 fpdf2
-streamlit>=1.25.0
-protobuf<=3.20.3
+streamlit>=1.30.0
